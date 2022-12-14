@@ -1,0 +1,30 @@
+<html>
+    <head></head>
+    <body>
+        <h2>ynh_626</h2>
+
+        <button>프로필 편집</button>
+        <p>
+            <strong>
+                윤나현 (yoon nahyeon)
+            </strong><br/>
+            학생
+        </p>
+
+        <p>
+            <a href="https://github.com/ynh626">
+                ynh626.github.io
+            </a>
+            </p>
+
+        <p>
+        게시물<br/>
+        팔로워<br/>
+        팔로우<br/>
+        10<br/>
+        400<br/>
+        30
+        </p>
+    </body>
+</html>
+
